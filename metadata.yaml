@@ -1,0 +1,39 @@
+_repo: Voyage-des-souverains-Inauguration-du-Canal-de-Suez_53805
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Riou, Edouard
+    aliases:
+    - Riou, Édouard
+    - Riou
+    - Riou, E. (Edouard)
+    birthdate: 1833
+    deathdate: 1900
+    gutenberg_agent_id: '33898'
+    url: http://www.gutenberg.org/2009/agents/33898
+creator:
+  author:
+    agent_name: Nicole, Gustave
+    gutenberg_agent_id: '47545'
+    url: http://www.gutenberg.org/2009/agents/47545
+description: ''
+gutenberg_bookshelf:
+- FR Services publics
+- FR Illustrateurs
+- FR Voyages et pays
+gutenberg_issued: '2016-12-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53805'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Suez Canal (Egypt) -- History'
+- !lcsh 'Egypt -- Social life and customs'
+- !lcc 'HE'
+- !lcsh 'Visits of state -- Egypt -- Suez'
+- GITenberg
+title: 'Voyage des souverains: Inauguration du Canal de Suez'
+url: http://www.gutenberg.org/ebooks/53805
