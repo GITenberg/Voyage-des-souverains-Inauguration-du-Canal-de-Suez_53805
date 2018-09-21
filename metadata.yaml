@@ -1,5 +1,5 @@
 _repo: Voyage-des-souverains-Inauguration-du-Canal-de-Suez_53805
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Riou, Edouard
@@ -11,12 +11,17 @@ contributor:
     deathdate: 1900
     gutenberg_agent_id: '33898'
     url: http://www.gutenberg.org/2009/agents/33898
+covers:
+- cover_type: archival
+  image_path: 53805-h/images/cover.jpg
 creator:
   author:
     agent_name: Nicole, Gustave
     gutenberg_agent_id: '47545'
     url: http://www.gutenberg.org/2009/agents/47545
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53805#Voyage-des-souverains-Inauguration-du-Canal-de-Suez
 gutenberg_bookshelf:
 - FR Services publics
 - FR Illustrateurs
